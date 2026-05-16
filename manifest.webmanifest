@@ -1,0 +1,1 @@
+{"name":"记忆助手 - 艾宾浩斯复习提醒","short_name":"记忆助手","description":"基于艾宾浩斯遗忘曲线的知识复习提醒工具","start_url":"/ebbinghaus-review/","display":"standalone","background_color":"#f9fafb","theme_color":"#3b82f6","lang":"en","scope":"/ebbinghaus-review/","orientation":"portrait","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}

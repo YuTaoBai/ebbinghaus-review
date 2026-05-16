@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/ebbinghaus-review/sw.js', { scope: '/ebbinghaus-review/' })})}
